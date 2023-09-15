@@ -1,13 +1,18 @@
 <h1 align="center">Hello, World! 👋, I'm Sinegugu Mthembu</h1>
-<h3 align="center">Welcome to my cosmic corner on GitHub! 🌌 As a passionate nuclear physics Ph.D. student with a burning curiosity for the universe, I've embarked on an exhilarating journey through code, cosmology, and technology.</h3>
+
+<h4 align="center">🔬 Tech & Nuclear Physics Enthusiast  🌠 Astro Explorer </h4>
+
+<h3 align="center">Welcome to my cosmic corner on GitHub! 🌌 As a passionate nuclear physics Ph.D. student with a burning curiosity for the universe. My academic journey revolves around the intricate dance of subatomic particles, unraveling the mysteries of the atomic nucleus.</h3>
 
 - 🔭 I’m currently working on **The excited states in the moderately deformed triaxial 193Au**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning about **Artificial Intelligence, Machine learning and Cosmology**
 
-- 📝 I regularly write articles on [https://www.researchgate.net/profile/Sinegugu-Mthembu](https://www.researchgate.net/profile/Sinegugu-Mthembu)
+- 📝 My academic articles are listed on [https://www.researchgate.net/profile/Sinegugu-Mthembu](https://www.researchgate.net/profile/Sinegugu-Mthembu)
 
 - 💬 Ask me about **Nuclear Physics: Angular correlations, wobbling and triaxiality**
+  
+- 📝 My MSc thesis: [https://uzspace.unizulu.ac.za/items/c46ad16a-981d-4254-80a7-f349da7d612e](https://uzspace.unizulu.ac.za/items/c46ad16a-981d-4254-80a7-f349da7d612e)
 
 - 📫 How to reach me **3698004@myuwc.ac.za**
 
