@@ -14,7 +14,7 @@
   
 - 📝 My MSc thesis: [https://uzspace.unizulu.ac.za/items/c46ad16a-981d-4254-80a7-f349da7d612e](https://uzspace.unizulu.ac.za/items/c46ad16a-981d-4254-80a7-f349da7d612e)
 
-- 📫 How to reach me **3698004@myuwc.ac.za**
+<!--- 📫 How to reach me **3698004@myuwc.ac.za**  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
