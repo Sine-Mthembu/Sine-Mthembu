@@ -5,7 +5,7 @@
 <h3 align="center">Welcome to my cosmic corner on GitHub! 🌌 As a passionate nuclear physics Ph.D. student with a burning curiosity for the universe. My academic journey revolves around the intricate dance of subatomic particles, unraveling the mysteries of the atomic nucleus.</h3>
 
 - 🔭 I’m currently working on **The excited states in the moderately deformed triaxial 193Au in**
-      - My analysis in done in ROOT/C++, Excel and Python.
+- My analysis in done in ROOT/C++, Excel and Python.
 - 🌱 I’m currently learning about **Artificial Intelligence, Machine learning and Cosmology**
 
 - 📝 My academic articles are listed on [https://www.researchgate.net/profile/Sinegugu-Mthembu](https://www.researchgate.net/profile/Sinegugu-Mthembu)
