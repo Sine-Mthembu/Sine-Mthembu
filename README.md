@@ -2,7 +2,9 @@
 
 <h4 align="center">🔬 Tech & Nuclear Physics Enthusiast  🌠 Astro Explorer </h4>
 
-<h3 align="center">Welcome to my cosmic corner on GitHub! 🌌 As a passionate nuclear physics Ph.D. student with a burning curiosity for the universe. My academic journey revolves around the intricate dance of subatomic particles, unraveling the mysteries of the atomic nucleus. I am actively learning data science and machine learning, focusing on practical applications through hands-on projects that demonstrate my analytical and programming skills. </h3>
+<h3 align="center">
+Welcome to my GitHub ⚙️ I work as a metrologist in diagnostic radiology and radiation protection, focused on radiation dosimetry and calibration systems. My work involves developing practical and automated solutions that improve measurement efficiency, streamline calibration workflows, and enhance the accuracy and reliability of radiation dose assessments. I combine physics, programming, and data-driven methods to solve real-world metrology challenges in medical radiation science. I am also actively developing my skills in data science and machine learning, applying them to practical, hands-on projects that strengthen my analytical and programming capabilities.
+</h3>
 
 - 🔭 I’m currently working on **The excited states in the moderately deformed triaxial in 193Au**
   
